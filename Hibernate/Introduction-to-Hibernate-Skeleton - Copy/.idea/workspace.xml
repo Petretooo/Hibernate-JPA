@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb193994-ec87-4e88-9156-fde9c5069f7b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="soft_uni/Hibernate" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="soft_uni/Hibernate" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="soft_uni/Hibernate" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="soft_uni: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y3sYPQ8Y4eA7hKkKKyA4lvpGas" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="introduction-to-hibernate" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@73fa1ab1" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb193994-ec87-4e88-9156-fde9c5069f7b" name="Default Changelist" comment="" />
+      <created>1582182659792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582182659792</updated>
+      <workItem from="1582182671190" duration="59000" />
+      <workItem from="1582183014182" duration="18561000" />
+      <workItem from="1582206143803" duration="5704000" />
+      <workItem from="1582270579012" duration="559000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Assign_Data_Sources" timestamp="1582194572786">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Assign_Data_Sources/0.0.1536.824@0.0.1536.824" timestamp="1582194572786" />
+    <state x="361" y="74" key="#Inspections" timestamp="1582198228012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1582198228012" />
+    <state x="451" y="104" key="#SQL_Resolution_Scopes" timestamp="1582271143366">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="361" y="74" key="#SQL_Resolution_Scopes/0.0.1536.824@0.0.1536.824" timestamp="1582199494626" />
+    <state x="451" y="104" key="#SQL_Resolution_Scopes/0.0.1920.1160@0.0.1920.1160" timestamp="1582271143366" />
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582206186018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582206186018" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1582184100320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582184100320" />
+    <state x="571" y="281" width="393" height="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582184174173">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="571" y="281" width="393" height="265" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1582184174173" />
+    <state width="1140" height="200" key="GridCell.Tab.0.bottom" timestamp="1582211853001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1140" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582211853001" />
+    <state width="1140" height="200" key="GridCell.Tab.0.center" timestamp="1582211853001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1140" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582211853001" />
+    <state width="1140" height="200" key="GridCell.Tab.0.left" timestamp="1582211853001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1140" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582211853001" />
+    <state width="1140" height="200" key="GridCell.Tab.0.right" timestamp="1582211853001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1140" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582211853001" />
+    <state width="914" height="196" key="GridCell.Tab.1.bottom" timestamp="1582211852992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="914" height="196" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582211852992" />
+    <state width="914" height="196" key="GridCell.Tab.1.center" timestamp="1582211852992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="914" height="196" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582211852992" />
+    <state width="914" height="196" key="GridCell.Tab.1.left" timestamp="1582211852992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="914" height="196" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582211852992" />
+    <state width="914" height="196" key="GridCell.Tab.1.right" timestamp="1582211852992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="914" height="196" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582211852992" />
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1582198522525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1582198522525" />
+    <state width="250" height="621" key="SqlResolveConfigurable" timestamp="1582271141678">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="200" height="441" key="SqlResolveConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1582199494603" />
+    <state width="250" height="621" key="SqlResolveConfigurable/0.0.1920.1160@0.0.1920.1160" timestamp="1582271141678" />
+    <state x="656" y="305" width="315" height="221" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1582198609751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="656" y="305" width="315" height="221" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1582198609751" />
+    <state x="606" y="89" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1582271152413">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="485" y="63" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1582198541399" />
+    <state x="606" y="89" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1582271152413" />
+    <state x="596" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1582270577874">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582206158018" />
+    <state x="596" y="339" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1582270577874" />
+  </component>
+</project>
